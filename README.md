@@ -9,7 +9,15 @@ This tool analyzes your past LinkedIn posts and generates new content matching y
 ✅ **Smart Post Analysis** – Extracts **tags, language, and length** from past posts.  
 ✅ **Customizable Output** – Control post **length (Short/Medium/Long)** and **language (English/Hinglish)**.  
 ✅ **Streamlit UI** – Simple, interactive interface for easy post generation.
-![Uploading tool.jpg…]()
+# project-genai-post-generator
+This tool will analyze posts of a LinkedIn influencer and help them create the new posts based on the writing style in their old posts  
+
+<img src="resources/tool.jpg"/>
+
+Let's say Mohan is a LinkedIn influencer and he needs help in writing his future posts. He can feed his past LinkedIn posts to this tool and it will extract key topics. Then he can select the topic, length, language etc. and use Generate button to create a new post that will match his writing style. 
+
+## Technical Architecture
+<img src="resources/architecture.jpg"/>
 
 
 ## **🛠️ Tech Stack**  
