@@ -8,7 +8,9 @@ This tool analyzes your past LinkedIn posts and generates new content matching y
 ✅ **AI-Powered Post Generation** – Uses **few-shot learning** to mimic your writing style.  
 ✅ **Smart Post Analysis** – Extracts **tags, language, and length** from past posts.  
 ✅ **Customizable Output** – Control post **length (Short/Medium/Long)** and **language (English/Hinglish)**.  
-✅ **Streamlit UI** – Simple, interactive interface for easy post generation.  
+✅ **Streamlit UI** – Simple, interactive interface for easy post generation.
+![Uploading tool.jpg…]()
+
 
 ## **🛠️ Tech Stack**  
 - **Backend**: Python, LangChain, Groq API (Llama-3)  
